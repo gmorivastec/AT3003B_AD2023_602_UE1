@@ -1,0 +1,26 @@
+[
+	{
+		"file": "/Users/grivas/work/ITESM/AT3003B/UE5_1/Source/UE5_1/UE5_1.Build.cs",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/AT3003B/UE5_1/.vscode/compileCommands_UE5_1/UE5_1.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/AT3003B/UE5_1/Source/UE5_1/UE5_1.cpp",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/AT3003B/UE5_1/.vscode/compileCommands_UE5_1/UE5_1.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/AT3003B/UE5_1/Source/UE5_1/UE5_1.h",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/AT3003B/UE5_1/.vscode/compileCommands_UE5_1/UE5_1.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	}
+]
