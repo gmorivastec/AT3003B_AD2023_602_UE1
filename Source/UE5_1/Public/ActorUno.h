@@ -19,6 +19,8 @@ class UE5_1_API AActorUno : public AActor
 	
 public:	
 	// Sets default values for this actor's properties
+	// constructor - método que se llama igual que la clase
+	// se ejecuta en el momento de la creación de un objeto de la clase
 	AActorUno();
 
 protected:
