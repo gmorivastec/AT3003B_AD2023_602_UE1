@@ -46,6 +46,9 @@ void ACubito::OnOverlapBegin(
 	bool bFromSweep, 
 	const FHitResult& SweepResult
 ){
+	if(OtherActor == this)
+		return;
+		
 	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Orange, TEXT("OVERLAP BEGIN"));
 	UE_LOG(LogTemp, Warning, TEXT("%s vs %s"), *GetName(), *OtherActor->GetName());
 
